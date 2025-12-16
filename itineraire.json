@@ -1,0 +1,213 @@
+{
+  "pays": "Bosnie-Herzégovine",
+  "drapeau": "🇧🇦",
+  "symbole": "🌉",
+  "titre": "Mostar, Perle des Balkans et Pont entre les Mondes",
+  "budget_total": "Environ 900€",
+  "duree": "5 jours",
+  "date_debut": "2025-12-16",
+  "date_fin": "2025-12-21",
+  "temps_vol": "2h de vol direct vers Sarajevo, puis 2h30 de bus vers Mostar depuis Paris",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Premiers Pas à Mostar",
+      "legende": "Après votre voyage depuis Paris, vous atteindrez Mostar, une ville où l'histoire se lit à chaque coin de rue. Prenez le temps de vous installer et de faire une première balade douce pour vous imprégner de l'atmosphère unique de cette cité emblématique, sans vous presser.",
+      "lieu": "Mostar",
+      "activites": [
+        "🛬 <strong>Arrivée à Mostar</strong>: Après votre vol pour Sarajevo et le transfert en bus, installez-vous confortablement dans votre hôtel au cœur de Mostar.",
+        "🛏️ <strong>Installation à l'hôtel</strong>: Prenez possession de votre chambre et détendez-vous après le voyage. Votre hôtel 3 étoiles vous offrira tout le confort nécessaire.",
+        "🚶‍♂️ <strong>Première balade dans le centre</strong>: Profitez d'une courte promenade autour de votre hébergement pour repérer les lieux et sentir l'ambiance locale en soirée."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "💰",
+          "titre": "Monnaie locale",
+          "texte": "La monnaie en Bosnie-Herzégovine est le Mark convertible (BAM). 1€ équivaut à environ 1.95 BAM. Les cartes bancaires sont acceptées dans la plupart des commerces, mais ayez toujours un peu de liquide."
+        },
+        {
+          "symbole": "🗣️",
+          "titre": "Langues",
+          "texte": "Les langues officielles sont le bosnien, le croate et le serbe. L'anglais est généralement parlé dans les zones touristiques."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🌉",
+      "titre": "Le Cœur Historique et le Stari Most",
+      "legende": "Plongez au cœur de Mostar en explorant son emblématique Vieux Pont, le Stari Most, symbole de résilience. Flânez dans les ruelles pavées du Vieux Bazar, imprégnez-vous de l'architecture ottomane et laissez-vous charmer par l'histoire vibrante de la ville. Une journée dédiée à la découverte de son âme.",
+      "lieu": "Mostar",
+      "activites": [
+        "🌉 <strong>Visite du Stari Most (Vieux Pont)</strong>: Admirez l'architecture majestueuse de ce pont ottoman, reconstruit après la guerre, et observez les plongeurs locaux (si la saison le permet).",
+        "🛍️ <strong>Exploration du Vieux Bazar (Kujundžiluk)</strong>: Perdez-vous dans les ruelles pavées bordées de boutiques d'artisans vendant des souvenirs, des bijoux en cuivre et des objets traditionnels.",
+        "🕌 <strong>Mosquée de Koski Mehmed Paša</strong>: Montez au minaret de cette mosquée pour une vue panoramique imprenable sur le Stari Most et la vieille ville de Mostar."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "📸",
+          "titre": "Meilleur point de vue",
+          "texte": "Pour une photo emblématique du Stari Most, positionnez-vous sur la rive est, près de la Mosquée de Koski Mehmed Paša, ou depuis les terrasses des cafés en contrebas."
+        },
+        {
+          "symbole": "🍲",
+          "titre": "Spécialités locales",
+          "texte": "Goûtez aux ćevapi (brochettes de viande hachée), au burek (feuilleté farci) ou au kajmak (crème fraîche épaisse) dans l'un des restaurants traditionnels du Vieux Bazar."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏞️",
+      "titre": "Évasion Spirituelle à Blagaj",
+      "legende": "Échappez à l'agitation de la ville pour une excursion paisible vers Blagaj, un lieu où la nature et la spiritualité se rencontrent. Découvrez la Tekija, une maison de derviches nichée au pied d'une falaise, et laissez-vous émerveiller par la source de la Buna, une rivière émeraude jaillissant de la roche. Une parenthèse enchantée.",
+      "lieu": "Blagaj",
+      "activites": [
+        "🚌 <strong>Excursion à Blagaj Tekija</strong>: Prenez un bus local ou un taxi pour visiter la maison des derviches de Blagaj, un monastère soufi du XVIe siècle, magnifiquement intégré à la roche.",
+        "💧 <strong>Source de la rivière Buna</strong>: Admirez la puissante source karstique de la rivière Buna, l'une des plus grandes d'Europe, qui émerge directement de la falaise sous la Tekija.",
+        "🍽️ <strong>Déjeuner au bord de l'eau</strong>: Savourez un repas de poisson frais dans l'un des restaurants pittoresques installés le long de la rivière Buna, offrant une vue imprenable sur la Tekija."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Accès à Blagaj",
+          "texte": "Des bus réguliers partent de la gare routière de Mostar pour Blagaj (environ 30 minutes). Vous pouvez aussi opter pour un taxi, plus rapide et pratique pour les groupes."
+        },
+        {
+          "symbole": "👗",
+          "titre": "Tenue vestimentaire",
+          "texte": "Lors de la visite de la Tekija, il est recommandé de porter des vêtements couvrants (épaules et genoux). Des foulards sont souvent mis à disposition à l'entrée pour les femmes."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🕊️",
+      "titre": "Mémoire et Vie Quotidienne",
+      "legende": "Cette journée est dédiée à la compréhension de l'histoire récente de Mostar et à l'immersion dans sa vie quotidienne. Explorez les vestiges du passé, visitez des expositions poignantes et terminez par une immersion dans l'effervescence du marché local, un contraste saisissant entre mémoire et vitalité.",
+      "lieu": "Mostar",
+      "activites": [
+        "📸 <strong>Visite du Musée de la Guerre et de la Révolution</strong>: Découvrez des expositions touchantes sur le conflit des années 90 et l'impact sur la ville et ses habitants.",
+        "🏢 <strong>L'Ancienne Banque (Sniper Tower)</strong>: Observez l'extérieur de cet immeuble emblématique, vestige poignant de la guerre, qui témoigne de la résilience de Mostar.",
+        "🍎 <strong>Marché de la ville de Mostar</strong>: Flânez dans le marché local pour découvrir les produits frais, les épices et l'artisanat, et observez le quotidien des habitants."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🙏",
+          "titre": "Respect et mémoire",
+          "texte": "Mostar porte encore les cicatrices de la guerre. Abordez les sites liés au conflit avec respect et considération pour l'histoire et les habitants."
+        },
+        {
+          "symbole": "🎁",
+          "titre": "Artisanat local",
+          "texte": "Le marché est un excellent endroit pour trouver des produits locaux comme le miel, les confitures, ou des objets artisanaux en bois et en cuivre."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "💦",
+      "titre": "Les Chutes de Kravice et Douceur Finale",
+      "legende": "Terminez votre séjour par une escapade rafraîchissante aux magnifiques chutes de Kravice, un spectacle naturel impressionnant même en hiver. L'après-midi sera consacrée aux derniers achats de souvenirs et à un dîner d'adieu, pour savourer une dernière fois l'ambiance chaleureuse de Mostar avant le départ.",
+      "lieu": "Mostar et Kravice",
+      "activites": [
+        "🏞️ <strong>Excursion aux Chutes de Kravice</strong>: Visitez ces cascades spectaculaires, souvent comparées à de petites Plitvice, où l'eau turquoise se jette dans un bassin naturel. (Prévoir un taxi ou une excursion organisée).",
+        "🛍️ <strong>Derniers achats de souvenirs</strong>: Profitez de l'après-midi pour acheter les derniers cadeaux et souvenirs dans les boutiques du Vieux Bazar ou du centre-ville.",
+        "🍽️ <strong>Dîner d'adieu</strong>: Savourez un dernier repas mémorable dans un restaurant avec vue sur le Stari Most, pour clôturer votre voyage en beauté."
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "❄️",
+          "titre": "Kravice en hiver",
+          "texte": "En décembre, les chutes de Kravice sont moins fréquentées et offrent une atmosphère paisible. L'eau est froide, mais le paysage reste magnifique. Prévoyez des vêtements chauds."
+        },
+        {
+          "symbole": "🚗",
+          "titre": "Transport pour Kravice",
+          "texte": "Le plus simple est de louer un taxi pour la demi-journée ou de participer à une excursion organisée depuis Mostar. Le trajet dure environ 45 minutes."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "280€/pers (Vol A/R Paris-Sarajevo en classe éco, puis bus A/R Sarajevo-Mostar)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "80€/pers (Transports locaux à Mostar, bus/taxi pour Blagaj et Kravice)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "150€/pers (5 jours de repas, budget moyen pour 3 repas/jour)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "300€/pers (5 nuits en hôtel 3 étoiles, base chambre double)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "30€/pers (Entrées musées, mosquée, Blagaj Tekija, Kravice)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois d'avril à juin et de septembre à octobre, pour des températures douces et moins de foule.",
+      "symbole": "🍁"
+    },
+    {
+      "titre": "Décembre offre une Mostar plus calme et authentique, avec une ambiance hivernale unique, mais les températures sont fraîches (0-10°C).",
+      "symbole": "❄️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "La Bosnie-Herzégovine est un pays des Balkans, riche d'une histoire complexe et d'une culture multi-ethnique, notamment à Mostar où cohabitent différentes communautés.",
+      "symbole": "🇧🇦"
+    },
+    {
+      "titre": "La population de Mostar est d'environ 100 000 habitants. La ville est un carrefour culturel et religieux, marqué par son passé ottoman et austro-hongrois.",
+      "symbole": "👥"
+    },
+    {
+      "titre": "Le Stari Most, le Vieux Pont de Mostar, est classé au patrimoine mondial de l'UNESCO. Sa reconstruction après la guerre symbolise la réconciliation et la résilience.",
+      "symbole": "UNESCO"
+    },
+    {
+      "titre": "Une tradition insolite est celle des plongeurs du Stari Most, qui sautent du pont dans la Neretva glaciale pour les touristes, une pratique ancestrale et impressionnante.",
+      "symbole": "🏊‍♂️"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Informations touristiques officielles sur la Bosnie-Herzégovine",
+      "titre": "Tourisme Bosnie-Herzégovine",
+      "url": "https://www.bhtourism.ba/eng/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Horaires et réservations de bus en Bosnie-Herzégovine",
+      "titre": "GetByBus Bosnie-Herzégovine",
+      "url": "https://getbybus.com/fr/bus-bosnie-herzegovine",
+      "symbole": "🚌"
+    },
+    {
+      "legende": "Prévisions météo pour Mostar",
+      "titre": "Météo Mostar",
+      "url": "https://www.accuweather.com/fr/ba/mostar/300184/weather-forecast/300184",
+      "symbole": "🌤️"
+    }
+  ]
+}
